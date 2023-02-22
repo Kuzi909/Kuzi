@@ -1,0 +1,25 @@
+table{
+    border: 1;
+}
+td{
+    border: 1px black solid;
+    border-collapse:collapse;
+    width: 30px;
+    height: 30px;
+}
+td:hover{
+    background-color: #DFE7F2;
+    color: #000000;
+}
+
+#G_16{
+    background-color: black;
+}
+
+#A_15, #A_16, #A_17{
+    background-color: red;
+}
+
+#M_15, #M_16, #M_17{
+    background-color: blue;
+}
